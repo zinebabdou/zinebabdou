@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zineb</h1>
 <h3 align="center">Fullstack developer from Barcelona</h3>
 
-- 🌱 I’m currently studying **Telecommunications Systems Engineering**
+- 🌱 I’m currently studying **Telecommunication System Engineering**
 
-- 💬 Yo can fully count on me in: **JavaScript, ReactJS and Relational database;)**
+- 😉 You can fully count on me in: **JavaScript, ReactJS and Relational database ;)**
 
-- 📫 My email: **zinebabdoub@outlook.com**
+- You can get to know more about me by sending me an email to **zinebabdoub@outlook.com**
 
-- Get to know me more in X **zinebabdou_**
+- Or following me on X **zinebabdou_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
